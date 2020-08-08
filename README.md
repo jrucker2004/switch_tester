@@ -4,6 +4,8 @@ This repository is a place to store my findings while testing switches.  The tes
 
 # Dislcaimers
 
+I'm not an expert! This is just a hobby, treat it as such.
+
 It's important to note that The data you find in this repository is for reference only.  The testing rig I'm using is calibrated using tools I have on-hand, and will very likely not create the same results as a testing rig someone else has built.  For this reason, I do not plan on releasing the raw test data.  I am making the results of my testing freely available by way of fancy looking graphs.  I'm currently using Splunk to visualize the data, but there are some downsides, like limits to how much formatting can be done to the graph, and what is displayed.  If you know of a better tool, please let me know.
 
 # Included in this repository
