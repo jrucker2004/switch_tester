@@ -18,6 +18,6 @@ This is a list of the switches I have tested, or have on-hand to test.  The majo
 
 ### Directories
 
-Several directories, broken out by switch manufacturer.  In each directory, you'll find subdirectories of switch models.  In there, you'll find graphs that I've created that show the actuation weight graphed against travel distance.  The vertical lines are the actuation points of the switches.  A test run compresses and releases each switch 5 times.  The graphs titled "Average" are an average of the 5 tests, showing both compression and release.  The graphs titled "Compressing" and "Releasing" show the data from all 5 tests.
+Several directories, broken out by switch manufacturer.  In each directory, you'll find subdirectories of switch models.  In there, you'll find graphs that I've created that show the actuation weight graphed against travel distance.  The vertical lines are the actuation points of the switches.  Unless otherwise noted, each switch is compressed and released 5 times.  The graphs titled "Average" are an average of all tests, showing both compression and release.  The graphs titled "Compressing" and "Releasing" show the data from all test runs.
 
 You'll also find a directory called "Comparisons".  In this directory, you'll find graphs that compare different switches.  If there is a comparison that isn't present that you'd like to see, send me a message.
