@@ -6,7 +6,7 @@ This repository is a place to store my findings while testing switches.  The tes
 
 I'm not an expert! This is just a hobby, treat it as such.
 
-It's important to note that The data you find in this repository is for reference only.  The testing rig I'm using is calibrated using tools I have on-hand, and will very likely not create the same results as a testing rig someone else has built.  For this reason, I do not plan on releasing the raw test data.  I am making the results of my testing freely available by way of fancy looking graphs.  I'm currently using Splunk to visualize the data, but there are some downsides, like limits to how much formatting can be done to the graph, and what is displayed.  If you know of a better tool, please let me know.
+It's important to note that the data you find in this repository is for reference only.  The testing rig I'm using is calibrated using tools I have on-hand, and will very likely not create the same results as a testing rig someone else has built.  For this reason, I do not plan on releasing the raw test data.  I am making the results of my testing freely available by way of fancy looking graphs.  I'm currently using Splunk to visualize the data, but there are some downsides, like limits to how much formatting can be done to the graph, and what is displayed.  If you know of a better tool, please let me know.
 
 # Included in this repository
 
@@ -14,7 +14,7 @@ You'll find the following things in this repository:
 
 ### Switch_List.csv
 
-This is a list of the switches I have tested, or have on-hand to test.  The majority of these switches were sent to me to test by generous volunteers.  Note that some switches have been lubricated, and some have not.  Unfortunately I'm at the whim of what is sent to me, so I can only record what I've been sent to test. I would prefer to test un-lubricated switches, because method of lubrication by different users can result in different results.  If you have a switch you'd like to see tested that isn't on the list, please send me a message.
+This is a list of the switches I have tested, or have on-hand to test.  The majority of these switches were sent to me to test by generous volunteers.  Note that some switches have been lubricated, and some have not.  Unfortunately I'm at the whim of what is sent to me, so I can only record what I've been sent to test. I would prefer to test un-lubricated switches, because the method of lubrication by different users can lead to different results.  If you have a switch you'd like to see tested that isn't on the list, please send me a message.
 
 ### Directories
 
